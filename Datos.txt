@@ -1,0 +1,6 @@
+{"nombre":"Brayan","edad":19,"correo":"brayan@gmail.com"}
+{"nombre":"Brayan","edad":19,"correo":"brayan@gmail.com"}
+{"nombre":"Fer","edad":19,"correo":"bb"}
+{"nombre":"prueba","edad":23,"correo":"prueba1"}
+{"nombre":"p1","edad":1,"correo":"p1"}
+{"nombre":"p2","edad":2,"correo":"p2"}
